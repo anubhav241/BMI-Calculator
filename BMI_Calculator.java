@@ -24,6 +24,5 @@ public class BMI_Calculator {
         }else{
             System.out.println("So you are in normal condition");
         }
-
     }
 }
